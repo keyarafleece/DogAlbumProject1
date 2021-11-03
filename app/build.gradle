@@ -35,6 +35,7 @@ android {
 }
 
 dependencies {
+    implementation 'com.google.android.material:material:<version>'
     implementation("io.coil-kt:coil:1.4.0")
     // ViewModel
     implementation "androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0"
